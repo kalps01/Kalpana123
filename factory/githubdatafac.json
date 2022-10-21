@@ -1,0 +1,9 @@
+{
+	"name": "githubdatafac",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a0949f4-8bbc-483b-a69e-c7ff9f4f982e",
+		"tenantId": "11385953-aff0-4e6e-8751-85d65079790a"
+	}
+}
